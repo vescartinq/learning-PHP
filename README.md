@@ -6,7 +6,7 @@
 # SECCIONES / CARPETAS
 
 1. [ General info](#general-info)
-2. [ Videos Demo](#videos-demo)
+2. [ Apps Demo](#apps-demo)
 3. [ Instrucciones](#instrucciones)
 
 ---
@@ -21,16 +21,21 @@ TODO : https://www.youtube.com/watch?v=pn2v9lPakHQ (FAZT)
 
 ## 3. INSTRUCCIONES
 
-\*Plataforma Base: 
--php 8 
--Base de Datos(mysql)
+**Plataforma Base:
 
-\*Pre requesitos de Instalacion : -Poseer una version Actualizada de cualquier
-navegador WED(Chorme,Morzilla Firefox,Edge) -Instalar Xampp en el Ordenado y
-Ubicar el Repositorio o Carpeta en la carpeta htdocs. -Instalar Instalar Mysql
+- PHP 
+- Base de Datos(mysql)
+
+**Pre requesitos de Instalacion : 
+
+- Poseer una version Actualizada de cualquier
+navegador WED(Chorme,Morzilla Firefox,Edge) 
+- Instalar Xampp en el Ordenado y
+Ubicar el Repositorio o Carpeta en la carpeta htdocs. 
+- Instalar Mysql
 en el sistema operativo de preferencia.
 
 \*Ejecucion: 
--Iniciar el servidor Wed Xampp. 
--Acceder a la siguiente ruta:
+- Iniciar el servidor Wed Xampp. 
+- Acceder a la siguiente ruta:
 http://localhost/php_mysql_crud/index.php.
