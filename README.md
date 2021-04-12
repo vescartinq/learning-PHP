@@ -6,8 +6,7 @@
 # SECCIONES / CARPETAS
 
 1. [ General info](#general-info)
-2. [ Apps Demo](#apps-demo)
-3. [ Instrucciones](#instrucciones)
+2. [ Instrucciones](#instrucciones)
 
 ---
 
@@ -15,12 +14,8 @@
 
 Curso orientado a aprender PHP, y a profundidad mediante ejercicios y tareas.
 
-## 2. APPS DEMOSTRACION
 
-Todo-Tasks : https://www.youtube.com/watch?v=pn2v9lPakHQ (FAZT) BLUUWEB:
-https://www.youtube.com/watch?v=p5gO80NpsUk&t=3s
-
-## 3. INSTRUCCIONES
+## 2. INSTRUCCIONES
 
 \*\*Plataforma Base:
 
