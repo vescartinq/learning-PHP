@@ -24,7 +24,7 @@ Curso orientado a aprender PHP, y a profundidad mediante ejercicios y tareas.
 
 \*\*Pre requesitos de Instalacion :
 
-- Poseer una version Actualizada de cualquier navegador WED(Chorme,Morzilla
+- Poseer una version Actualizada de cualquier navegador WED(Chrome,Morzilla
   Firefox,Edge)
 - Instalar Xampp en el Ordenado y Ubicar el Repositorio o Carpeta en la carpeta
   htdocs.
