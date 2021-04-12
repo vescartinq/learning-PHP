@@ -2,7 +2,6 @@
 
 ---
 
-![todo-php](https://user-images.githubusercontent.com/65297719/114050198-598a2080-988c-11eb-974f-2ec36d0f9a4c.jpg)
 
 # SECCIONES / CARPETAS
 
